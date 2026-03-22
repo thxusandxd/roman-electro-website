@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+backend/.env
+
+# Logs
+logs/
+*.log
+backend/logs/
+
+# Uploads
+backend/uploads/
+
+# PM2
+.pm2/
+
+# Build files
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
